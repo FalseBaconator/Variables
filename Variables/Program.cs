@@ -21,7 +21,7 @@ namespace Variables
             enemyPoints = 100; //Init 100 points per kill
             Console.WriteLine("Score: " + score); //Display
             //score = 1000000; //Change
-            score = score + enemyPoints; //Change
+            score = score + enemyPoints; //Change killed 1 enemy
             Console.WriteLine("Score: " + score); //Display
             Console.WriteLine();
 
